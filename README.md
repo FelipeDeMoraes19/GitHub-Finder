@@ -22,7 +22,7 @@ git clone https://github.com/FelipeDeMoraes19/github-finder.git
 ## Navigate to the project directory:
 
 ```bash
-cd Github-finder
+cd github-finder
 ```
 ## Install the dependencies:
 ```bash
