@@ -17,12 +17,12 @@ GitHub Finder is an application that allows users to search for GitHub profiles 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/FelipeDeMoraes19/github-finder.git
+git clone https://github.com/FelipeDeMoraes19/Github-Finder.git
 ```
 ## Navigate to the project directory:
 
 ```bash
-cd github-finder
+cd Github-Finder
 ```
 ## Install the dependencies:
 ```bash
